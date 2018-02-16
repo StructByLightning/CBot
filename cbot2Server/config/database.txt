@@ -1,0 +1,62 @@
+alter table accounts
+add zone2 varchar(512);
+alter table accounts
+add mail2 int;
+alter table accounts
+add recall2 varchar(512);
+alter table accounts
+add days2 int;
+
+alter table accounts
+add zone3 varchar(512);
+alter table accounts
+add mail3 int;
+alter table accounts
+add recall3 varchar(512);
+alter table accounts
+add days3 int;
+
+alter table accounts
+add zone4 varchar(512);
+alter table accounts
+add mail4 int;
+alter table accounts
+add recall4 varchar(512);
+alter table accounts
+add days4 int;
+
+alter table accounts
+add zone5 varchar(512);
+alter table accounts
+add mail5 int;
+alter table accounts
+add recall5 varchar(512);
+alter table accounts
+add days5 int;
+
+alter table accounts
+add zone6 varchar(512);
+alter table accounts
+add mail6 int;
+alter table accounts
+add recall6 varchar(512);
+alter table accounts
+add days6 int;
+
+alter table accounts
+add zone7 varchar(512);
+alter table accounts
+add mail7 int;
+alter table accounts
+add recall7 varchar(512);
+alter table accounts
+add days7 int;
+
+alter table accounts
+add zone8 varchar(512);
+alter table accounts
+add mail8 int;
+alter table accounts
+add recall8 varchar(512);
+alter table accounts
+add days8 int;
